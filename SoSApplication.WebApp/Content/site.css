@@ -1,5 +1,13 @@
 ﻿/* Styles go here */
+body {
+}
 
+#navTabs{
+    border: none;
+}
+
+
+/*Intro page styles*/
 .intropanel {
     position: relative;
     top: 100px;
@@ -13,19 +21,22 @@
     margin-bottom: 20px;
 }
 
-/*Menu styles*/
+/*Main page styles*/
 
 #mainpageContainer {
     position: relative;
     top: 100px;
 }
-
+.mainpage_tabcontent {
+    border: 1px solid #ddd;
+}
 #exTab2 h3 {
     color: white;
     background-color: #428bca;
     padding: 5px 15px;
 }
 
+/*Group page styles*/
 #grouppageContainer {
     position: relative;
     top: 100px;
