@@ -1,0 +1,14 @@
+﻿/* Styles go here */
+
+.intropanel {
+    position: relative;
+    top: 100px;
+}
+
+.center-block {
+    margin: 30px 20px 30px 20px;
+}
+
+.btns-intro{
+    margin-bottom: 20px;
+}
