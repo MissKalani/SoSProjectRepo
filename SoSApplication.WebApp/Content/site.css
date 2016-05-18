@@ -9,6 +9,24 @@
     margin: 30px 20px 30px 20px;
 }
 
-.btns-intro{
+.btns-intro {
     margin-bottom: 20px;
+}
+
+/*Menu styles*/
+
+#mainpageContainer {
+    position: relative;
+    top: 100px;
+}
+
+#exTab2 h3 {
+    color: white;
+    background-color: #428bca;
+    padding: 5px 15px;
+}
+
+#grouppageContainer {
+    position: relative;
+    top: 100px;
 }
