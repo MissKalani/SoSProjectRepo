@@ -6,7 +6,6 @@ body {
     border: none;
 }
 
-
 /*Intro page styles*/
 .intropanel {
     position: relative;
@@ -30,7 +29,7 @@ body {
 .mainpage_tabcontent {
     border: 1px solid #ddd;
 }
-#exTab2 h3 {
+#mainpageTabs h3 {
     color: white;
     background-color: #428bca;
     padding: 5px 15px;
